@@ -7,16 +7,12 @@ This is a gem for [Rocket.Chat](https://rocket.chat/).
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'rocketchat'
+gem 'rocketchat', github: 'int2xx9/ruby-rocketchat'
 ```
 
 And then execute:
 
     $ bundle
-
-Or install it yourself as:
-
-    $ gem install rocketchat
 
 
 ## List of supported API
